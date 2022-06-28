@@ -53,7 +53,7 @@ public class MainActivity extends AppCompatActivity {
                 case R.id.osumai_clear:
                     input.setText("");
                     output.setText("");
-                    break;
+                    break;//ブレイク
             }
 
         }
